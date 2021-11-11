@@ -1,0 +1,2 @@
+# ABUSEIPDB_BULK_CHECKER
+Bulk IP lookup from ABUSEIPDB
